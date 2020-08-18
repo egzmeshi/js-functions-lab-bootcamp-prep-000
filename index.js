@@ -1,4 +1,5 @@
-function happyHolidaysTo(string) {
-var date = "Happy holidays to"
-console.log`Happy holidays to, ${name}!`
+function happyHolidays(string) {
+  var greeting = "Happy Holidays!";
+  greeting = "Happy Holidays!";
+  return string;
 }
